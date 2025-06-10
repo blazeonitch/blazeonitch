@@ -1,10 +1,10 @@
 # Hi, I'm Blaise 👋  
 
-🔭 I’m currently working on [project name]  
-🌱 Learning: [tech/topic]  
-💬 Ask me about: [expertise]  
-📫 How to reach me: [email/social links]  
-⚡ Fun fact: [something interesting]  
+🔭 I’m currently working on ###
+🌱 Learning: React and Java
+💬 Ask me about: C#, C/C++ and Python
+📫 How to reach me: ###
+⚡ Fun fact: I also do Art, Animation and 3D modelling!
 
 ## 🛠️ Tech Stack  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
@@ -14,9 +14,7 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
 
-<!-- # Visitor Count: ![Visitors](https://visitor-badge.glitch.me/badge?page_id=blazeonitch.blazeonitch)
---->
-# Visitor Count: ![Visitors](https://visitor-badge.glitch.me/badge?page_id=blazeonitch.blazeonitch&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
+
 ## 🔥 My Projects  
 - [Project 1](https://github.com/blazeonitch/react-todo-list): Todo app made with React
 
