@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Blaise 👋  
 
-<!--
-**blazeonitch/blazeonitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on [project name]  
+🌱 Learning: [tech/topic]  
+💬 Ask me about: [expertise]  
+📫 How to reach me: [email/social links]  
+⚡ Fun fact: [something interesting]  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 My Projects  
+- [Project 1](link): Short description.  
+- [Project 2](link): Short description.  
+
+## 📊 Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+<!---
+blazeonitch/blazeonitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
