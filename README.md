@@ -15,8 +15,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
 
 ## 🔥 My Projects  
-- [Project 1](link): Short description.  
-- [Project 2](link): Short description.  
+- [Project 1]([link](https://github.com/blazeonitch/react-todo-list)): Short description.  
 
 ## 📊 Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
