@@ -19,7 +19,7 @@
 - [Project 1](https://github.com/blazeonitch/react-todo-list): Todo app made with React
 
 ## 📊 Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blazeonitch&show_icons=true&theme=radical)  
 <!---
 blazeonitch/blazeonitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
