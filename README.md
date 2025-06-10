@@ -1,9 +1,9 @@
 # Hi, I'm Blaise 👋  
 
-🔭 I’m currently working on ###
-🌱 Learning: React and Java
-💬 Ask me about: C#, C/C++ and Python
-📫 How to reach me: ###
+🔭 I’m currently working on ###  
+🌱 Learning: React and Java  
+💬 Ask me about: C#, C/C++ and Python  
+📫 How to reach me: ###  
 ⚡ Fun fact: I also do Art, Animation and 3D modelling!
 
 ## 🛠️ Tech Stack  
