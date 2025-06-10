@@ -14,8 +14,11 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
 
+<!-- # Visitor Count: ![Visitors](https://visitor-badge.glitch.me/badge?page_id=blazeonitch.blazeonitch)
+--->
+# Visitor Count: ![Visitors](https://visitor-badge.glitch.me/badge?page_id=blazeonitch.blazeonitch&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
 ## 🔥 My Projects  
-- [Project 1]([link](https://github.com/blazeonitch/react-todo-list)): Short description.  
+- [Project 1](https://github.com/blazeonitch/react-todo-list): Todo app made with React
 
 ## 📊 Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
