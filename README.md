@@ -17,6 +17,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazeonitch&layout=compact&theme=vision-friendly-dark)
 ## 🔥 My Projects  
 - [Project 1](https://github.com/blazeonitch/react-todo-list): Todo app made with React
+- [Project 2](https://github.com/blazeonitch/phonebook-python-react): Phonebook app - Flask and React | WIP
 
 ## 📊 Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blazeonitch&show_icons=true&theme=radical)  
