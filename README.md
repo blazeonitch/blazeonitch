@@ -3,8 +3,8 @@
 🔭 I’m currently working on ###  
 🌱 Learning: Node JS and Express + MongoDB
 💬 Ask me about: C#, C/C++ and Python  
-📫 How to reach me: email or X (formally twitter)
-⚡ Fun fact: I also do Art, Animation and 3D modelling!
+📫 How to reach me: email or X (formally twitter)  
+⚡ Fun fact: I also do Art, Animation and 3D modelling!  
 ⚠️ Note: Most of my public repos are just for fun,  
 I usually dont maintain after pushing... my my polished works are private☺️
 
