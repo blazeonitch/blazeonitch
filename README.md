@@ -5,8 +5,10 @@
 💬 Ask me about: C#, C/C++ and Python  
 📫 How to reach me: email or X (formally twitter)
 ⚡ Fun fact: I also do Art, Animation and 3D modelling!
+⚠️ Note: Most of my public repos are just for fun, I usually dont maintain after pushing... my my polished works are private☺️
 
 ## 🛠️ Tech Stack  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
