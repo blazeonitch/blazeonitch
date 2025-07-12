@@ -1,9 +1,9 @@
 # Hi, I'm Blaise 👋  
 
 🔭 I’m currently working on ###  
-🌱 Learning: React and Java  
+🌱 Learning: Node JS and Express + MongoDB
 💬 Ask me about: C#, C/C++ and Python  
-📫 How to reach me: ###  
+📫 How to reach me: email or X (formally twitter)
 ⚡ Fun fact: I also do Art, Animation and 3D modelling!
 
 ## 🛠️ Tech Stack  
