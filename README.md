@@ -12,7 +12,6 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazeonitch&layout=compact&theme=vision-friendly-dark)
 
