@@ -18,10 +18,6 @@ I usually dont maintain after pushing... my polished works are private☺️
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazeonitch&layout=compact&theme=vision-friendly-dark)
 
-
-## 📊 Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blazeonitch&show_icons=true&theme=radical)  
-
 <!---
 blazeonitch/blazeonitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
