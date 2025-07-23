@@ -9,7 +9,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazeonitch&layout=compact&theme=vision-friendly-dark)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
