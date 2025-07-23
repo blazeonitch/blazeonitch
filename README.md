@@ -11,9 +11,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazeonitch&layout=compact&theme=vision-friendly-dark)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazeonitch&layout=compact&theme=vision-friendly-dark)
 
 <!---
 blazeonitch/blazeonitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
