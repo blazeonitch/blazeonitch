@@ -1,4 +1,4 @@
-# Hi, I'm Blaise 👋  
+# Hi, I'm Blaise
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazeonitch&layout=compact&theme=vision-friendly-dark)
 
 
